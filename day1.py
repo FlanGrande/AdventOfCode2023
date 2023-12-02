@@ -92,6 +92,4 @@ for line in puzzle_input:
 
     #print("")
 
-
-
 print(solution)
